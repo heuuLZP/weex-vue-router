@@ -28,6 +28,11 @@ npm run dev
 
 
 
+### 注意
+
+- 在chrome浏览器打开后，需要设置成mobile模式，否则按钮点击无效。(官方demo也有此问题，为止bug)
+- 暂不考虑如何打包问题
+
 ### 文件目录
 
 ```
@@ -44,7 +49,11 @@ src
 
 ## demo 
 
+home页
+
 ![home](/demo/home.jpeg)
+
+about页
 
 ![about](/demo/about.jpeg)
 
